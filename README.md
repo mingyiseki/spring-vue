@@ -9,5 +9,5 @@
 #### 安装教程
 
 1.  选择进入demo项目
-2.  cd vue
+2.  cd demo/vue
 3.  npm install
